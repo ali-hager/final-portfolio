@@ -1,0 +1,26 @@
+[
+  {
+    "title": "Tchotchke E-Commerce Site",
+    "imageSrc": "projects/tchotchkes.png",
+    "description": "An e-commerce site, akin to an online goodwill for antiques and oddities, eliminates bidding anxiety by offering fixed prices, ensuring a stress-free shopping experience with a clean user interface.",
+    "skills": ["Prisma", "React", "Express", "Node"],
+    "demo": "https://www.canva.com/design/DAGDJ9b30_0/RSr62Qi4gcXkP3v7zMJHhw/edit?utm_content=DAGDJ9b30_0&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton",
+    "source": "https://github.com/Team-Tchotchke/Capstone.Tchotchke.GH2401"
+  },
+  {
+    "title": "Library App",
+    "imageSrc": "projects/library.png",
+    "description": "This application allows users to reserve library books and access detailed book information within a clean, user-friendly interface.",
+    "skills": ["React", "Express", "Node", "SQL"],
+    "demo": "https://unit3-book-buddy-starter-wheat.vercel.app/",
+    "source": "https://github.com/ali-hager/Unit3.BookBuddy.Starter"
+  },
+  {
+    "title": "Puppy Bowl Manager",
+    "imageSrc": "projects/puppyBowl.png",
+    "description": "This project demonstrates the development of a dynamic single-page application (SPA) for managing a sports team roster, leveraging a client-server architecture with the front-end interacting with a separate API for data retrieval and manipulation.",
+    "skills": ["React", "Express", "Node"],
+    "demo": "https://puppy-bowl-react.vercel.app/",
+    "source": "https://github.com/ali-hager/Puppy-Bowl"
+  }
+]
